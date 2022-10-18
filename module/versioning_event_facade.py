@@ -1,5 +1,5 @@
-from GithubRequest import GithubRequest
-from versioning_event import VersioningEvent
+from module.github_request import GithubRequest
+from module.versioning_event import VersioningEvent
 
 class VersioningEventFacade:
 

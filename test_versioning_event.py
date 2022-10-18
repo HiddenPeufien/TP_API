@@ -1,5 +1,5 @@
-from versioning_event import VersioningEvent
-from versioning_event_facade import VersioningEventFacade
+from module.versioning_event import VersioningEvent
+from module.versioning_event_facade import VersioningEventFacade
 
 def test():
     versioning_events = VersioningEventFacade.get_versioning_events()

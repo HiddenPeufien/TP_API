@@ -1,6 +1,5 @@
-from Response import Response
-from GithubRequest import GithubRequest
-import requests
+from module.response import Response
+from module.github_request import GithubRequest
 
 
 def test_github_request():

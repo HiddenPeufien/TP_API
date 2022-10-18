@@ -1,5 +1,5 @@
 import requests
-from Response import Response
+from module.response import Response
 class GithubRequest:
 
 
