@@ -1,4 +1,7 @@
+import requests
+from Response import Response
 class GithubRequest:
+
 
     _base_url = "https://api.github.com"
 
